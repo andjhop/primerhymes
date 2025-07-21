@@ -1,1 +1,8 @@
 The Unique Factorisation Domain of the Zero-Two Dual
+
+Duals are Combos of two Singles, Tris are Combos of three Singles, Quads are Combos of four Singles
+and so on. Singles are Integers "rebased" with a unique multiplicative structure and irreducibles
+over a base b. The ring of Integers (Z, +, *) in this world is the "Zero" Single. A Dual of special
+interest is the "Zero-Two" Dual which is a Combo of the "Zero" Single and the "Two" Single, it has
+its own unique multiplicative structure and is a unique factorisation domain and thus has a
+fundamental theory of arithmetic, futher, it has an infinitude of the irreducibles: {2, 3, 5, 11, 17...}.
