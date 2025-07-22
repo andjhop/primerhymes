@@ -1,0 +1,10 @@
+Rebasing Integers
+
+Primes generate all other integers via multiplication.
+Primes are fascinating, but we can build unique factorisation domains containing the integers with equally fascinating multiplicative structure
+by making a choice about the residues of division we care about. If we care about residues of 0, we have a "single" with
+base 0 which equivalent to the UFD of the integers and whose primes are {2, 3, 5, 7, 11...}, but we could also choose to
+care about residues of 2, then we have a single of base 2, with a modified multiplication operation which also
+generates the integers and whose primes are {2, 3, 5, 9, 11, 15...}; a of base 3, whose primes are
+{2, 4, 8, 10, 14...}; and so on. We can even combine two singles of different bases to Create "Duals", or three to
+create "Tris". The resulting objects also contain the integers and have fascinating multiplicative structure.
